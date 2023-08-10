@@ -39,4 +39,4 @@ Emitted when a user successfully withdraws their staked tokens.
 
 Requirements
 stakingToken: The ERC20 token that users will stake. This is set in the constructor when deploying the contract.
-Users must approve the contract to transfer their tokens before calling the stake function.
+
