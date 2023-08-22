@@ -25,6 +25,7 @@ Functions
 stake(uint256 amount)
 Allows users to stake a specified amount of tokens.
 Emits a Staked event.
+
 withdraw(uint256 amount)
 Allows users to withdraw a specified amount of their staked tokens.
 Emits a Withdrawn event.
