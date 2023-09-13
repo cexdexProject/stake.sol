@@ -3,7 +3,6 @@
 CexDexStaking
 A simple Ethereum smart contract for staking ERC20 tokens.
 
-
 Overview
 The CexDexStaking contract allows users to stake a specified ERC20 token and keep track of their staked balances. Users can stake or withdraw tokens anytime they wish.
 
