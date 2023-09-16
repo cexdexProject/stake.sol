@@ -17,6 +17,7 @@ IERC20
 An interface representing the required functions of an ERC20 token that will be used for staking.
 
 CexDexStaking
+
 The main contract where users can stake their tokens.
 
 Functions
