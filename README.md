@@ -12,6 +12,7 @@ Withdrawal: Users can withdraw their staked tokens.
 Balance Query: Users can check the number of tokens they have staked.
 Events: The contract emits events for staking and withdrawing activities for better transparency.
 Interfaces
+
 IERC20
 
 An interface representing the required functions of an ERC20 token that will be used for staking.
